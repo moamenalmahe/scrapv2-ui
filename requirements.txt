@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+requests==2.31.0
+PyQt6==6.6.1
+pyinstaller==6.4.0 
